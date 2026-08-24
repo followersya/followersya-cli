@@ -35,3 +35,12 @@ Request a client pair at `info@followersya.com` — see the
 ## Requirements
 
 Node.js ≥ 18. No dependencies.
+
+## Docker
+
+```bash
+docker run --rm followersya/followersya-cli search "seguidores instagram"
+```
+
+The image is published from the official FollowersYA account at
+`docker.io/followersya/followersya-cli`.
