@@ -8,7 +8,7 @@
   "author": "FollowersYA",
   "license": "MIT",
   "type": "module",
-  "bin": { "followersya": "./followersya.mjs" },
+  "bin": "./followersya.mjs",
   "scripts": { "test": "node --test" },
   "files": ["followersya.mjs", "README.md"],
   "keywords": ["social-media", "commerce-api", "mcp", "cli", "agents"],
